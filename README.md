@@ -44,7 +44,7 @@ To customise the look and feel of your dataset site
 
 2) edit css/style.css to change colour schemes of the site.
 
-Additional sexiness
+Additionally
 ===================
 
 The <a href="http://theodi.org" target="_blank">Open Data Institute</a> Github Data publisher automatically produces the following:
