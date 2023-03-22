@@ -1,4 +1,4 @@
-data-publishing-template
+MUSE Breast Tissue Image Dataset
 ========================
 
 There is a step by step guide available <a href="http://training.theodi.org/resources/ODIDataTemplate.pdf" target="_blank">here</a>.
