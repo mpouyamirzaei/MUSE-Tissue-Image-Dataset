@@ -23,7 +23,7 @@ Because the size of BCS specimens varies significantly and positive margins incl
 <br>
 <i> <b> Fig. 1: </b>  Intraoperative imaging of breast tumor margins during BCS including (left) Schematic of the DUV-FSM and (right)  Fluorescence and H&E images of breast tissue with ILC and DCIS with adjacent adipose at the two ends; (A) fluorescence image with a specimen photo represented in the white box; (B) FFPE H&E image; (C) benign adenosis highlighted by the black box; DCIS sites indicated by yellow arrows 1, 2, 3 and 4.  The zoomed-in regions at arrows 1, 2 and 3 are represented in (F), (G) and (H), respectively.  The DCIS indicated by arrow 4 is not visible in the fluorescence image, likely because it is slightly below the surface. </i>
 
-### Acknowledgements
+## Acknowledgements
 
 The work was supported by the Marquette University College of Engineering GHR Foundation grant, Marquette University startup grant, and Medical College of Wisconsin Department of Surgery We Care grant. The de-identified human breast tissue specimens were provided by the Medical College of Wisconsin Tissue Bank. The statistical analysis was performed by the Biostatistics Consulting Services (Ulrich Kemmo Tsafack and Dr. Aniko Szabo) at the Medical College of Wisconsin.
 
