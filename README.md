@@ -4,6 +4,8 @@
 Welcome to the MUSE Breast Tissue Image Dataset. <br>
 This repository currently contains anonymized stitched images of breast tissue. If you wish to learn about the methods of which this image dataset was collected, please refer to our publications folder. 
 
+## News
+
 ## Citing
 
 Please consider citing the following publictions in your associated **scientific publications and studies**. Moreover, please inform us of any use of the repository in both **open-source and closed-source works**.
@@ -27,12 +29,9 @@ address =
 url = 
 doi = 
 ```
+## Table of Contents
 
-## Contact Us 
-
-If you wish to obtain the unstitched version of the images, please email bing.yu@marquette.edu
-
-## Basic Information 
+## Abstract
 
 An estimated 50-75% of women in the US who are diagnosed with breast cancer will undergo breast-conserving surgery (BCS) or lumpectomy.  Women with positive margins after BCS are at 2-times the risk for cancer recurrence and are recommended to undergo additional surgery to achieve negative margins.  Additional surgery is associated with significant emotional, cosmetic and financial burden for patients and their caregivers.  Although several intraoperative margin assessment techniques (e.g., radiographic examination, frozen section, touch preparation and MarginProbe) are available, their accuracy is variable, and many are not routinely used, particularly in community hospitals, where most women with breast cancer receive care. 
 
@@ -43,6 +42,10 @@ Because the size of BCS specimens varies significantly and positive margins incl
 <img src="https://mcw.marquette.edu/biomedical-engineering/biophotonics-lab/images/research/scanning-microscopy.gif">
 <br>
 <i> <b> Fig. 1: </b>  Intraoperative imaging of breast tumor margins during BCS including (left) Schematic of the DUV-FSM and (right)  Fluorescence and H&E images of breast tissue with ILC and DCIS with adjacent adipose at the two ends; (A) fluorescence image with a specimen photo represented in the white box; (B) FFPE H&E image; (C) benign adenosis highlighted by the black box; DCIS sites indicated by yellow arrows 1, 2, 3 and 4.  The zoomed-in regions at arrows 1, 2 and 3 are represented in (F), (G) and (H), respectively.  The DCIS indicated by arrow 4 is not visible in the fluorescence image, likely because it is slightly below the surface. </i>
+
+## Contact Us 
+
+If you wish to obtain the unstitched version of the images, please email bing.yu@marquette.edu
 
 ## Location
  
