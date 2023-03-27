@@ -1,4 +1,4 @@
-MUSE Breast Tissue Image DAtaset
+MUSE Breast Tissue Image Dataset
 ========================
 Welcome
 
