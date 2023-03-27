@@ -2,8 +2,7 @@
 <i>Deep Ultraviolet Fluoresence Images of Cancerous and Non-cancerous Breast Tissue</i>
 
 Welcome to the MUSE Breast Tissue Image Dataset. <br>
-This repository currently contains anonymized stitched images of breast tissue. We hope to provide this repository to 
-If you wish to learn about the methods of which this image dataset was collected, please refer to our publications folder. 
+This repository currently contains anonymized stitched images of breast tissue. If you wish to learn about the methods of which this image dataset was collected, please refer to our publications folder. 
 
 ## Citing
 
