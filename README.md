@@ -1,10 +1,9 @@
 MUSE Breast Tissue Image Dataset
 ========================
-Welcome
-
-Provides a template for publishing a high quality open dataset. Each repository is designed to host a single dataset, consisting of one or more files.
-
-To create a dataset with open data certificate
+<br>
+<img src="https://user-images.githubusercontent.com/121147966/227839428-e6fde2a2-6cb4-4a7f-a1a3-b2307f514628.png" alt="Joint MU and MCW Biomedical Engineering Department">
+<br>
+Welcome to the MUSE Breast Tissue Image Dataset.
 
 1) Fork the <a href="https://github.com/theodi/data-publishing-template" target="_blank">template repository</a> and rename the repository to something more akin to the dataset you will be publishing. This can be done from the respositories settings menu. At the same time re-enable issues from the same screen.
 
