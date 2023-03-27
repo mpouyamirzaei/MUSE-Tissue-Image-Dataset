@@ -10,7 +10,6 @@ If you wish to **contact us** regarding this dataset, please email bing.yu@marqu
 Please cite the following publictions in your associated **scientific publications, studies and projects** that utilized the dataset images. 
 
 
-
 ## Abstract
 
 An estimated 50-75% of women in the US who are diagnosed with breast cancer will undergo breast-conserving surgery (BCS) or lumpectomy.  Women with positive margins after BCS are at 2-times the risk for cancer recurrence and are recommended to undergo additional surgery to achieve negative margins.  Additional surgery is associated with significant emotional, cosmetic and financial burden for patients and their caregivers.  Although several intraoperative margin assessment techniques (e.g., radiographic examination, frozen section, touch preparation and MarginProbe) are available, their accuracy is variable, and many are not routinely used, particularly in community hospitals, where most women with breast cancer receive care. 
@@ -25,7 +24,7 @@ Because the size of BCS specimens varies significantly and positive margins incl
 
 ## Acknowledgements
 
-The work was supported by the Marquette University College of Engineering GHR Foundation grant, Marquette University startup grant, and Medical College of Wisconsin Department of Surgery We Care grant. The de-identified human breast tissue specimens were provided by the Medical College of Wisconsin Tissue Bank. The statistical analysis was performed by the Biostatistics Consulting Services (Ulrich Kemmo Tsafack and Dr. Aniko Szabo) at the Medical College of Wisconsin.
+This study received funding from multiple sources, including the Marquette University College of Engineering GHR Foundation grant, Marquette University startup grant, and Medical College of Wisconsin Department of Surgery We Care grant. The Medical College of Wisconsin Tissue Bank provided the de-identified human breast tissue specimens used in this research. The Biostatistics Consulting Services at the Medical College of Wisconsin, specifically Ulrich Kemmo Tsafack and Dr. Aniko Szabo, performed the statistical analysis.
 
 
 <br>
