@@ -4,31 +4,13 @@
 Welcome to the MUSE Breast Tissue Image Dataset. <br>
 This repository currently contains anonymized stitched images of breast tissue collected in the Joint Biomedical Engineering Dept. of **Marquette University** and the **Medical College of Wisconsin**. If you wish to learn about the methods of which this image dataset was collected, please refer to our publications folder. 
 
-If you wish to obtain the unstitched version of the images, please email bing.yu@marquette.edu
+If you wish to **contact us** regarding this dataset, please email bing.yu@marquette.edu
 
-## Citing
+## Citing and Publications
 
 Please consider citing the following publictions in your associated **scientific publications and studies**. Moreover, please inform us of any use of the repository in both **open-source and closed-source works**.
 
-```
-author = 
-title = 
-year = 
-publisher = 
-address =
-url = 
-doi = 
-```
 
-```
-author = 
-title = 
-year = 
-publisher = 
-address =
-url = 
-doi = 
-```
 
 ## Abstract
 
@@ -42,8 +24,9 @@ Because the size of BCS specimens varies significantly and positive margins incl
 <br>
 <i> <b> Fig. 1: </b>  Intraoperative imaging of breast tumor margins during BCS including (left) Schematic of the DUV-FSM and (right)  Fluorescence and H&E images of breast tissue with ILC and DCIS with adjacent adipose at the two ends; (A) fluorescence image with a specimen photo represented in the white box; (B) FFPE H&E image; (C) benign adenosis highlighted by the black box; DCIS sites indicated by yellow arrows 1, 2, 3 and 4.  The zoomed-in regions at arrows 1, 2 and 3 are represented in (F), (G) and (H), respectively.  The DCIS indicated by arrow 4 is not visible in the fluorescence image, likely because it is slightly below the surface. </i>
 
+## Acknowledgements
+
+
 <br>
 <img src="https://user-images.githubusercontent.com/121147966/227839428-e6fde2a2-6cb4-4a7f-a1a3-b2307f514628.png" alt="Joint MU and MCW Biomedical Engineering Department">
 <br>
-
-## Acknowledgements
