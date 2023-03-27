@@ -8,7 +8,7 @@ If you wish to **contact us** regarding this dataset, please email bing.yu@marqu
 
 ## Citing and Publications
 
-Please consider citing the following publictions in your associated **scientific publications and studies**. Moreover, please inform us of any use of the repository in both **open-source and closed-source works**.
+Please consider citing the following publictions in your associated **scientific publications, studies and projects**. 
 
 
 
