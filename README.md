@@ -6,8 +6,6 @@ This repository currently contains anonymized stitched images of breast tissue c
 
 If you wish to obtain the unstitched version of the images, please email bing.yu@marquette.edu
 
-## News
-
 ## Citing
 
 Please consider citing the following publictions in your associated **scientific publications and studies**. Moreover, please inform us of any use of the repository in both **open-source and closed-source works**.
@@ -31,7 +29,6 @@ address =
 url = 
 doi = 
 ```
-## Table of Contents
 
 ## Abstract
 
