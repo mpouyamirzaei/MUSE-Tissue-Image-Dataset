@@ -25,10 +25,7 @@ Because the size of BCS specimens varies significantly and positive margins incl
 
 ### Acknowledgements
 
-Authors thank the Medical College of Wisconsin Tissue Bank for providing de-identified human breast tissue specimens.
-
-### Funding 
-Marquette University College of Engineering GHR Foundation grant, Marquette University startup grant, and Medical College of Wisconsin Department of Surgery We Care grant. 
+The work was supported by the Marquette University College of Engineering GHR Foundation grant, Marquette University startup grant, and Medical College of Wisconsin Department of Surgery We Care grant. The de-identified human breast tissue specimens were provided by the Medical College of Wisconsin Tissue Bank. The statistical analysis was performed by the Biostatistics Consulting Services (Ulrich Kemmo Tsafack and Dr. Aniko Szabo) at the Medical College of Wisconsin.
 
 
 <br>
