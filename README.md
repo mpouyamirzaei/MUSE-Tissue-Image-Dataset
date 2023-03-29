@@ -1,7 +1,7 @@
-# MUSE Breast Tissue Image Dataset
+# MUSE Tissue Image Dataset
 <i>Deep Ultraviolet Fluoresence Images of Cancerous and Non-cancerous Breast Tissue</i>
 
-Welcome to the MUSE Breast Tissue Image Dataset. This repository currently contains anonymized stitched images of breast tissue collected in the Joint Biomedical Engineering Dept. of **Marquette University** and the **Medical College of Wisconsin**. If you wish to learn about the methods of which this image dataset was collected, please refer to our publications folder. 
+Welcome to the MUSE Breast Tissue Image Dataset. This repository currently contains anonymized stitched images of tissue collected in the Joint Biomedical Engineering Dept. of **Marquette University** and the **Medical College of Wisconsin**. If you wish to learn about the methods of which this image dataset was collected, please refer to our publications folder. 
 
 If you wish to **contact us** regarding this dataset, please email bing.yu@marquette.edu
 
