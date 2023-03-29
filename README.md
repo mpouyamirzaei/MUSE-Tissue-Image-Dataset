@@ -1,16 +1,24 @@
 # MUSE Tissue Image Dataset
-<i>Deep Ultraviolet Fluoresence Images of Cancerous and Non-cancerous Breast Tissue</i>
+<i>Deep Ultraviolet Fluoresence Images of Cancerous and Non-cancerous Tissue</i>
 
-Welcome to the MUSE Tissue Image Dataset. This repository currently contains anonymized stitched images of tissue collected in the Joint Biomedical Engineering Dept. of **Marquette University** and the **Medical College of Wisconsin**. If you wish to learn about the methods of which this image dataset was collected, please refer to our publications folder. 
+Welcome to the MUSE Tissue Image Dataset. This repository currently contains anonymized stitched images of tissue collected in the Joint Biomedical Engineering Dept. of **Marquette University** and the **Medical College of Wisconsin**. If you wish to learn about the methods of which this image dataset was collected, please refer to our publications. 
 
 If you wish to **contact us** regarding this dataset, please email bing.yu@marquette.edu
 
 ## Citing and Publications
 
-Please cite the following publictions in your associated **scientific publications, studies and projects** that utilized the dataset images. 
+We kindly ask that you cite the following publications in your associated **scientific publications, studies and projects** that utilized the dataset images. 
+- https://pubmed.ncbi.nlm.nih.gov/36187258/
+- https://pubmed.ncbi.nlm.nih.gov/33241673/
 
+## Copy this Dataset
+To make a clone of this dataset, you may use the following bash function:
 
-## Abstract
+```bash
+git clone https://github.com/mpouyamirzaei/MUSE-Tissue-Image-Dataset.git
+```
+
+## Our Research
 
 An estimated 50-75% of women in the US who are diagnosed with breast cancer will undergo breast-conserving surgery (BCS) or lumpectomy.  Women with positive margins after BCS are at 2-times the risk for cancer recurrence and are recommended to undergo additional surgery to achieve negative margins.  Additional surgery is associated with significant emotional, cosmetic and financial burden for patients and their caregivers.  Although several intraoperative margin assessment techniques (e.g., radiographic examination, frozen section, touch preparation and MarginProbe) are available, their accuracy is variable, and many are not routinely used, particularly in community hospitals, where most women with breast cancer receive care. 
 
@@ -21,6 +29,8 @@ Because the size of BCS specimens varies significantly and positive margins incl
 <img src="https://mcw.marquette.edu/biomedical-engineering/biophotonics-lab/images/research/scanning-microscopy.gif">
 <br>
 <i> <b> Fig. 1: </b>  Intraoperative imaging of breast tumor margins during BCS including (left) Schematic of the DUV-FSM and (right)  Fluorescence and H&E images of breast tissue with ILC and DCIS with adjacent adipose at the two ends; (A) fluorescence image with a specimen photo represented in the white box; (B) FFPE H&E image; (C) benign adenosis highlighted by the black box; DCIS sites indicated by yellow arrows 1, 2, 3 and 4.  The zoomed-in regions at arrows 1, 2 and 3 are represented in (F), (G) and (H), respectively.  The DCIS indicated by arrow 4 is not visible in the fluorescence image, likely because it is slightly below the surface. </i>
+
+## License and Copyright
 
 ## Acknowledgements
 
